@@ -1,4 +1,4 @@
-BudgieX
+
 BudgieX is an experimental, open-source PlayStation 5 (PS5) and PC emulator/launcher and High-Level Emulation (HLE) compatibility layer written in modern C++20.
 Rather than emulating raw x86-64 CPU instructions, BudgieX leverages the native x86-64 host architecture while translating Budgie OS system calls, kernel primitives, and custom AMD RDNA 2 graphics commands to modern desktop APIs (Vulkan).
 > \*\*Disclaimer:\*\* BudgieX is an educational and research project. It does not include any copyrighted Sony firmware, encryption keys, or games. You must dump your own legally owned console firmware and game backups to use this software.
